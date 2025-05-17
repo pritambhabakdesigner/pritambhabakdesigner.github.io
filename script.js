@@ -15,7 +15,7 @@ const portfolioData = {
             bannerDesign: {
                 name: "Banner Design",
                 items: [
-                    { id: "banner1", src: "https://placehold.co/1200X400", alt: "Banner Design 1", caption: "Web Banner for Tech Company" },
+                    { id: "banner1", src: "images/22.jpg", alt: "Banner Design 1", caption: "Web Banner for Tech Company" },
                     { id: "banner2", src: "https://placehold.co/1200X400", alt: "Banner Design 2", caption: "Social Media Cover" },
                     { id: "banner3", src: "https://placehold.co/1200X400", alt: "Banner Design 3", caption: "Exhibition Banner" },
                     { id: "banner4", src: "https://placehold.co/1200X400", alt: "Banner Design 4", caption: "Email Header Banner" }
@@ -24,7 +24,7 @@ const portfolioData = {
             brochureDesign: {
                 name: "Brochure Design",
                 items: [
-                    { id: "brochure1", src: "https://placehold.co/800X1000", alt: "Brochure 1", caption: "Tri-fold Corporate Brochure" },
+                    { id: "brochure1", src: "images/37.jpg", alt: "Brochure 1", caption: "Tri-fold Corporate Brochure" },
                     { id: "brochure2", src: "https://placehold.co/800X1000", alt: "Brochure 2", caption: "Product Catalog" },
                     { id: "brochure3", src: "https://placehold.co/800X1000", alt: "Brochure 3", caption: "Event Program" },
                     { id: "brochure4", src: "https://placehold.co/800X1000", alt: "Brochure 4", caption: "Annual Report Design" }
@@ -33,10 +33,11 @@ const portfolioData = {
             socialMediaDesign: {
                 name: "Social Media Post Design",
                 items: [
-                    { id: "social1", src: "https://placehold.co/600X600", alt: "Social Media 1", caption: "Instagram Post Template" },
-                    { id: "social2", src: "https://placehold.co/600X600", alt: "Social Media 2", caption: "Facebook Promotion" },
-                    { id: "social3", src: "https://placehold.co/600X600", alt: "Social Media 3", caption: "Twitter Campaign Graphics" },
-                    { id: "social4", src: "https://placehold.co/600X600", alt: "Social Media 4", caption: "LinkedIn Business Post" }
+                    { id: "social1", src: "images/20.jpg", alt: "Social Media 1", caption: "Instagram Post Template" },
+                    { id: "social2", src: "images/21.jpg", alt: "Social Media 2", caption: "Facebook Promotion" },
+                    { id: "social3", src: "images/23.jpg", alt: "Social Media 3", caption: "Twitter Campaign Graphics" },
+                    { id: "social4", src: "images/24.jpg", alt: "Social Media 4", caption: "LinkedIn Business Post" },
+                    { id: "social5", src: "images/25.jpg", alt: "Social Media 4", caption: "LinkedIn Business Post" }
                 ]
             },
             foodMenuDesign: {
@@ -51,10 +52,12 @@ const portfolioData = {
             flyerDesign: {
                 name: "Flyer Design",
                 items: [
-                    { id: "flyer1", src: "https://placehold.co/800X1100", alt: "Flyer 1", caption: "Event Promotion Flyer" },
-                    { id: "flyer2", src: "https://placehold.co/800X1100", alt: "Flyer 2", caption: "Business Introduction" },
-                    { id: "flyer3", src: "https://placehold.co/800X1100", alt: "Flyer 3", caption: "Product Launch" },
-                    { id: "flyer4", src: "https://placehold.co/800X1100", alt: "Flyer 4", caption: "Sale Announcement" }
+                    { id: "flyer1", src: "images/26.jpg", alt: "Flyer 1", caption: "Event Promotion Flyer" },
+                    { id: "flyer2", src: "images/27.jpg", alt: "Flyer 2", caption: "Business Introduction" },
+                    { id: "flyer3", src: "images/28.jpg", alt: "Flyer 3", caption: "Product Launch" },
+                    { id: "flyer4", src: "images/29.jpg", alt: "Flyer 4", caption: "Sale Announcement" },
+                    { id: "flyer5", src: "images/31.jpg", alt: "Flyer 4", caption: "Sale Announcement" },
+                    { id: "flyer6", src: "images/32.jpg", alt: "Flyer 4", caption: "Sale Announcement" }
                 ]
             },
             posterDesign: {

@@ -59,6 +59,24 @@ header {
   font-weight: 300;
 }
 
+.avatar{
+  max-width: 100px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  margin-inline: auto;
+  overflow: hidden;
+  border: 4px solid #fff;
+}
+
+.img-fit{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+
+
 /* Navigation */
 nav {
   background-color: var(--white);
@@ -243,12 +261,17 @@ footer .container {
   font-size: 1.5rem;
   cursor: pointer;
   transition: var(--transition);
+  color: #fff;
 }
 
 .social-icons .iconify:hover {
   color: var(--secondary-color);
   transform: translateY(-3px);
 }
+
+.social-icons a{
+  color: #fff;
+} 
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {
